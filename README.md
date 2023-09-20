@@ -1,4 +1,5 @@
 # restAssuredProject
 This is Automation restAssured Repository
 <br>
-Author Tarun 
+Author Tarun didot(QA)
+    
